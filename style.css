@@ -16,7 +16,6 @@ html, body {
 
 #logo {
     height: 70vh;
-    image-rendering: pixelated;
     position: absolute;
     right: 100px;
     top: 15vh;
